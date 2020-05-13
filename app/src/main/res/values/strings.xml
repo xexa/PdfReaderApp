@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PdfReaderApp</string>
+    <string name="file_name">File name</string>
+</resources>
